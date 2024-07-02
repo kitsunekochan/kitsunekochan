@@ -7,8 +7,9 @@
 
 - I'm JPN.
 - I can write c#, javascript, python etc...
-- 
 
+  
+my skill
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css,c,cs,cpp)](https://skillicons.dev)
 <!---
 kitsunekochan/kitsunekochan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
