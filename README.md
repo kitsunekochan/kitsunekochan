@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kitsunekochan
 - 👀 I’m interested in Unreal Engine 5
-- 🌱 I’m currently learning C++!
+- 🌱 I’m currently learning UE5!
 - 💞️ I’m looking to collaborate on ...!!!!
 - 📫 How to reach me twitter @kitsuneko_lena
-- ⚡ Fun fact: 1500 hours of VRChat play time
+- ⚡ Fun fact: 2300 hours of VRChat play time
 
 - I'm JPN.
 - I can write c#, javascript, python etc...
